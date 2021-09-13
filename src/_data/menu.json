@@ -1,15 +1,10 @@
 [
     {
-        "label": "About",
+        "label": "A cerca",
         "url": "/about"
     },
     {
-        "label": "Tag List",
+        "label": "Listado de Tags",
         "url": "/tags"
-    },
-    {
-        "label": "GitHub",
-        "url": "https://github.com/dafiulh/vredeburg",
-        "newTab": true
     }
 ]
